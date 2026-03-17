@@ -1,0 +1,22 @@
+.Cabeçalho-central{
+    width: 300px;
+    margin: auto;
+    margin-top: -80px;
+}
+.Cabeçalho{
+    background-color: rgb(223, 183, 183);
+    margin-top: -20px;
+    h4{
+        margin-top: -25px;
+    }
+    p{
+        line-height: 0.2;
+    }
+}
+.Cabeçalho-lateral{
+    float:right;
+    margin-top: -88px;
+    p{
+        line-height: 0.2;
+    }
+}
