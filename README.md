@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Print currículo](public/Print%20Currículo.png)
+![Print do currículo](public/Print%20Currículo.png)
